@@ -13,3 +13,4 @@ Curated list of Awesome, for Hooroo
 [Fresh](http://freshshell.com/) A tool to manage your dot files. It allso you to pull in dotfiles from other peoples github repos
 
 ## VIM
+[Easy-Align](https://github.com/junegunn/vim-easy-align) Align yo text! Super simple and powerful.
