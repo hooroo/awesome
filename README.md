@@ -14,3 +14,8 @@ Curated list of Awesome, for Hooroo
 
 ## VIM
 [Easy-Align](https://github.com/junegunn/vim-easy-align) Align yo text! Super simple and powerful.
+
+## Other Awesome
+[Awesome Ruby](https://github.com/markets/awesome-ruby)
+[Awesome Go](https://github.com/avelino/awesome-go)
+
